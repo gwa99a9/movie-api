@@ -34,3 +34,6 @@ build/
 
 ### ENV ###
 src/main/resources/.env
+
+
+/.mvn/wrapper/maven-wrapper.jar
